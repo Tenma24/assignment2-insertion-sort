@@ -31,3 +31,16 @@ During sorting we measure:
 - Each run also prints the same CSV line to the console.
 
 CSV format:
+---
+
+## Results & Graphs
+
+### Execution Time
+![Time vs n](plots/time_vs_n.png)
+
+### Comparisons
+![Comparisons vs n](plots/comparisons_vs_n.png)
+
+### Array Accesses
+![Accesses vs n](plots/accesses_vs_n.png)
+
